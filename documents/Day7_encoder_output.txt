@@ -1,0 +1,8 @@
+VCD info: dumpfile tb_priority_encoder4to2.vcd opened for output.
+D | Y
+0000 | 00
+0001 | 00
+0010 | 01
+0100 | 10
+1000 | 11
+1010 | 11
