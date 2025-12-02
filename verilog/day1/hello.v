@@ -1,6 +1,6 @@
 module hello;
     initial begin
-        $display("VLSI GOAT STARTS HERE");
+        $display("VLSI STARTS HERE");
         $finish;
     end
 endmodule
